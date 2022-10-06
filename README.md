@@ -1,7 +1,8 @@
 # WebFlux-Server
-Rama con el servidor.
+RAMA CON EL SERVIDOR.
 
 Analisis de Ejecución:
+
 En el sevicio del servidor crearemos las personas que mandaremos al cliente añadiendoles un delay(tiempo que tardara en emitir el flujo) de entre 1 y 4 segundos por lo que tardara 10 segundos en pasar al cliente los cuatro flujos.
 
 ![image](https://user-images.githubusercontent.com/64962627/194370438-0a67132e-d31f-47ab-86d8-a667e1b8bf4c.png)
